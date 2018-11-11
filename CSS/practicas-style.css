@@ -1,0 +1,61 @@
+/*Si se usa el important rompe cascada y se hace siempre ésto*/
+/*reglas
+selectores
+declaraciones
+propiedades
+valores*/
+
+/*Selector de etiqueta  "Header - section - article"
+
+header {
+  background: pink;
+}*/
+
+/*Selector descendente "elemento hijo"
+
+body header div nav ol li a {
+
+}*/
+
+/*Selector de clase
+
+.class {
+
+}*/
+
+/*Selector por id
+
+#id {
+
+}*/
+/*
+header {
+  color: red;
+}*/
+
+/*Colores con palabras clave
+Usar hexadecimal o rgb(), rgba
+Usar Hls() hlsa()*/
+
+/*
+  line-height para modificar el alto de linea
+font-size para modificar el tamaño de la fuente
+font-weight para modificar el tipo de fuente
+font-style para modificar el estilo de la fuente
+letter-spacing para modificar el espacio entre letras
+text-transform para transformar la fuente (mayusculas, minuculas, etc)
+text-decoration para moodificar la decoración de la fuente
+*/
+/*
+  background-color para agregar unn color de fondo
+color para agregar un color al texto
+text-decoration para modificar la decoración del texto
+background-image para agregar una imagen de fondo
+background-size para modificar el tamaño del background asignado
+background-repeat para modificar la repetición del backgound asignado
+background-position para modificar la posición del bakground asignado
+*/
+
+/* border-top tamaño, tipo, color*/
+/* margin: arriba derecha abajo izquierda*/
+/*padding: arriba derecha abajo izquierda*/
